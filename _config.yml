@@ -29,7 +29,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
-twitter_username:
+# twitter_username:
 github_username: rocket-office
 minimal_mistakes_skin: default
 email:
