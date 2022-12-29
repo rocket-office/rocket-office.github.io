@@ -16,16 +16,16 @@
 locale: "de-CH"
 title: &title "Rocket Office"
 title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "Work and Meet in Wabern" # site tagline that appears below site title in masthead
 name: *title
 description: >- # this means to ignore newlines until "baseurl:"
   Willkommen an Board! Das Rocket Office ist ein gemeinnütziger Verein für günstigen Büroraum in Wabern.
 url: https://rocket-office.github.io
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
+teaser: /assets/images/rocket-office-teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: /assets/images/rocket-office-logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: *title # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 # words_per_minute         : 200
 
