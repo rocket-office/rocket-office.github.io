@@ -41,12 +41,12 @@ companies:
 
 ## Eindrücke aus dem Office
 
-{% include gallery caption="Unser Rocket Office." %}
+{% include gallery %}
 
 ## Adresse
 
-Rocket Office
-Kirchstrasse 175
+**Rocket Office**<br>
+Kirchstrasse 175<br>
 3084 Wabern
 
 ## Anfahrt
@@ -55,6 +55,9 @@ Kirchstrasse 175
 - Mit dem Bus, Linien M78, M79 (Haltestelle Gurtenbahn)
 - Mit der SBB, Linien S3, S4, S31 und S44
 
+- Auf [Google Maps](https://goo.gl/maps/zXZ8fL4H4L9msXmv6)
+- Auf [OpenStreetMap](https://osm.org/go/0CZl3sHhQ?m=)
+
 ## Firmen im Rocket Office
 
-{% include gallery id="companies" caption="Shared Office Teilnehmer" %}
+{% include gallery id="companies" %}
