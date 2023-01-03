@@ -7,31 +7,31 @@ header:
   overlay_image: /assets/images/office-pictures/rocket-office_workplace.jpeg
   actions:
     - label: "<i class='fa-duotone fa-pen-paintbrush'></i> Anmelden"
-      url: "/anmelden"
+      url: "/angebot"
 excerpt: >
-  Auf der Suche nach einem günstigen Arbeitsplatz in motivierendem Umfeld?
+  Auf der Suche nach einem erschwinglichen Arbeitsplatz in motivierendem Umfeld?
 feature_row:
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: ""
-    title: ""
-    excerpt: ""
-    url: "/docs/configuration/"
+  - image_path: /assets/images/rocket-office-teaser.png
+    alt: "Das Office"
+    title: "Das Office"
+    excerpt: "Das Rocket Office befindet sich an idealer Lage in Wabern."
+    url: "/office/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    btn_label: "mehr erfahren"
+  - image_path: /assets/images/rocket-office-teaser.png
+    alt: "Angebot"
+    title: "Unser Angebot"
+    excerpt: "Das Shared Office passt sich Deinen Bedürfnissen an, ohne versteckte Kosten."
+    url: "/angebot/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    btn_label: "mehr erfahren"
+  - image_path: /assets/images/rocket-office-teaser.png
+    alt: "Über uns"
+    title: "Über uns"
+    excerpt: "Rocket Office ist ein gemeinnütziger Verein und ermöglicht erschwingliches Shared Office."
+    url: "/ueber-uns/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "mehr erfahren"      
 ---
 
 {% include feature_row %}

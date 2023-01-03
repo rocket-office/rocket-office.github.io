@@ -1,4 +1,6 @@
 main:
+  - title: "Angebot"
+    url: /angebot/
   - title: "Updates"
     url: /posts/
   - title: "Über Uns"

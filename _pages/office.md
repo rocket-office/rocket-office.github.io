@@ -20,7 +20,24 @@ gallery:
   - image_path: /assets/images/office-pictures/rocket-office_workplace.jpeg
     alt: "Arbeitsplätze"
     title: "Arbeitsplätze"
----
+companies:
+  - url: https://www.nothing.ch
+    image_path: /assets/images/client-logos/nothing.png
+    alt: "Nothing"
+    title: "Nothing"
+  - url: https://www.soulcode.agency
+    image_path: /assets/images/client-logos/soulcode.png
+    alt: "Soulcode"
+    title: "Soulcode"
+  - url: https://www.mutzone.ch
+    image_path: /assets/images/client-logos/mutzone.jpg
+    alt: "Mutzone"
+    title: "Mutzone"
+  - url: https://about.peerdom.org
+    image_path: /assets/images/client-logos/peerdom.jpg
+    alt: "Peerdom"
+    title: "Peerdom"
+
 ## Eindrücke aus dem Office
 
 {% include gallery caption="Unser Rocket Office." %}
@@ -37,3 +54,6 @@ Kirchstrasse 175
 - Mit dem Bus, Linien M78, M79 (Haltestelle Gurtenbahn)
 - Mit der SBB, Linien S3, S4, S31 und S44
 
+## Firmen, die sich das Office teilen
+
+{% include gallery id="companies" caption="Shared Office Teilnehmer" %}

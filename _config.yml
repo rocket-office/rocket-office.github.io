@@ -71,6 +71,8 @@ plugins:
 
 footer:
   links:
+    - label: "Kontakt"
+      url: "https://www.rocket-office.ch/kontakt/"
     - label: "Portal"
       url: "https://rocket.webling.ch/portal#/"
 
