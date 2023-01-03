@@ -37,6 +37,7 @@ companies:
     image_path: /assets/images/client-logos/peerdom.jpg
     alt: "Peerdom"
     title: "Peerdom"
+---
 
 ## Eindrücke aus dem Office
 
@@ -54,6 +55,6 @@ Kirchstrasse 175
 - Mit dem Bus, Linien M78, M79 (Haltestelle Gurtenbahn)
 - Mit der SBB, Linien S3, S4, S31 und S44
 
-## Firmen, die sich das Office teilen
+## Firmen im Rocket Office
 
 {% include gallery id="companies" caption="Shared Office Teilnehmer" %}
