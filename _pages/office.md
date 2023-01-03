@@ -21,22 +21,23 @@ gallery:
     alt: "Arbeitsplätze"
     title: "Arbeitsplätze"
 companies:
-  - url: https://www.nothing.ch
-    image_path: /assets/images/client-logos/nothing.png
-    alt: "Nothing"
-    title: "Nothing"
-  - url: https://www.soulcode.agency
-    image_path: /assets/images/client-logos/soulcode.png
-    alt: "Soulcode"
-    title: "Soulcode"
   - url: https://www.mutzone.ch
     image_path: /assets/images/client-logos/mutzone.jpg
     alt: "Mutzone"
     title: "Mutzone"
+  - url: https://www.nothing.ch
+    image_path: /assets/images/client-logos/nothing.png
+    alt: "Nothing"
+    title: "Nothing"
   - url: https://about.peerdom.org
     image_path: /assets/images/client-logos/peerdom.jpg
     alt: "Peerdom"
     title: "Peerdom"
+  - url: https://www.soulcode.agency
+    image_path: /assets/images/client-logos/soulcode.png
+    alt: "Soulcode"
+    title: "Soulcode"
+
 ---
 
 ## Eindrücke aus dem Office
@@ -55,8 +56,7 @@ Kirchstrasse 175<br>
 - Mit dem Bus, Linien M78, M79 (Haltestelle Gurtenbahn)
 - Mit der SBB, Linien S3, S4, S31 und S44
 
-- Auf [Google Maps](https://goo.gl/maps/zXZ8fL4H4L9msXmv6)
-- Auf [OpenStreetMap](https://osm.org/go/0CZl3sHhQ?m=)
+Anfahrt mit [Google Maps](https://goo.gl/maps/zXZ8fL4H4L9msXmv6) oder [OpenStreetMap](https://osm.org/go/0CZl3sHhQ?m=) planen.
 
 ## Firmen im Rocket Office
 
