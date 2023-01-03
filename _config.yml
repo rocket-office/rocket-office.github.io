@@ -41,12 +41,13 @@ remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /news/page:num/
+paginate_path: /updates/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 include:
   - _pages
+  - _updates
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -93,3 +94,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _updates
+  - scope:
+      path: ""
+      type: updates
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: false
