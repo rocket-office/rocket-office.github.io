@@ -8,4 +8,4 @@ tags:
   - info
 ---
 
-Das Rocket Office startet ins 2023!
+Das Rocket Office ist eröffnet!
