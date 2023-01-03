@@ -3,8 +3,6 @@ permalink: /kontakt/
 title: "Kontakt"
 ---
 
-# Kontaktformular
-
 Bitte fülle untenstehendes Formular aus. Bastiaan oder Reto werden sich bei Dir melden.
 
 <iframe

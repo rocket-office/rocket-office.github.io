@@ -1,9 +1,7 @@
 ---
 permalink: /angebot/
-title: "Angebot"
+title: "Unsere Angebote"
 ---
-
-# Unsere Angebote
 
 Du möchtest das Home-Office nicht missen, brauchst aber etwas Tapetenwechsel oder ab- und an ein Meeting Raum um im Team vor Ort etwas erarbeiten zu können? Wir haben bestimmt das passende Abo für Dich. Und sollten trotzdem noch Fragen offen oder Dein Wunsch-Setup nicht zu finden sein, [melde Dich bei uns](/kontakt/)!)
 
@@ -27,15 +25,15 @@ Als Optionen können eine Postanschrift und einen Parkplatz (so lange Verfügbar
 * Preis pro Postadresse (Anschrift am Briefkasten): 13.-/Monat
 * Preis pro Parkplatz: 150.-/Monat
 
-# Im Mietvertrag inbegriffen
+## Im Mietvertrag inbegriffen
 
 Egal ob Du Dich für einen _Fix Desk_ oder ein _Flex Desk_ Abo entscheidest. Folgende Services sind inklusive!
 
-## 24/7 Zutritt
+### 24/7 Zutritt
 
 Dank dem persönlichen Schlüssel hat jede Person 24/7 Zutritt zum Office.
 
-## Instrastruktur zur Mitbenützung
+### Instrastruktur zur Mitbenützung
 
 * Küche (Mikrowelle, Kühlkasten, Geschirrwaschmaschine, Kaffeemaschine, Besteck, Geschirr)
 * Drucker, Shredder, Scanner, Beamer
@@ -44,10 +42,10 @@ Dank dem persönlichen Schlüssel hat jede Person 24/7 Zutritt zum Office.
 * Whiteboards, Flipcharts, Stifte
 * Internet-Zugang per Wifi
 
-## Konsumation
+### Konsumation
 
 Kaffee und Wasser sind ebenfalls bei allen Abos inklusive.
 
-# Interesse?
+## Interesse?
 
 Mit unserem [Anmeldeformular](/anmelden/) kannst Du Dir noch heute dein Arbeitsplatz im Rocket Office reservieren. Wir melde uns umgehend bei Dir.
