@@ -1,5 +1,5 @@
 main:
-  - title: "News"
-    url: /news/
-  - title: "About"
-    url: /about/
+  - title: "Updates"
+    url: /posts/
+  - title: "Über Uns"
+    url: /ueber-uns/
