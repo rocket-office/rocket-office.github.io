@@ -24,6 +24,7 @@ Als Optionen können eine Postanschrift und einen Parkplatz (so lange Verfügbar
 
 * Preis pro Postadresse (Anschrift am Briefkasten): 13.-/Monat
 * Preis pro Parkplatz: 150.-/Monat
+* Preis pro Korpus (abschliessbar): 5.-
 
 ## Im Mietvertrag inbegriffen
 
