@@ -49,4 +49,4 @@ Kaffee und Wasser sind ebenfalls bei allen Abos inklusive.
 
 ## Interesse?
 
-Mit unserem [Anmeldeformular](/anmelden/) kannst Du Dir noch heute dein Arbeitsplatz im Rocket Office reservieren. Wir melde uns umgehend bei Dir.
+Mit unserem [Anmeldeformular](/anmelden/) kannst Du Dir noch heute Dein Arbeitsplatz im Rocket Office reservieren. Wir melden uns umgehend bei Dir.
