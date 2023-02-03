@@ -34,7 +34,7 @@ Egal ob Du Dich für einen _Fix Desk_ oder ein _Flex Desk_ Abo entscheidest. Fol
 
 Dank dem persönlichen Schlüssel hat jede Person 24/7 Zutritt zum Office.
 
-### Instrastruktur zur Mitbenützung
+### Infrastruktur zur Mitbenützung
 
 * Küche (Mikrowelle, Kühlkasten, Geschirrwaschmaschine, Kaffeemaschine, Besteck, Geschirr)
 * Drucker, Shredder, Scanner, Beamer
