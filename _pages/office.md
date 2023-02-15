@@ -21,10 +21,6 @@ gallery:
     alt: "Arbeitsplätze"
     title: "Arbeitsplätze"
 companies:
-  - url: https://www.mutzone.ch
-    image_path: /assets/images/client-logos/mutzone.jpg
-    alt: "Mutzone"
-    title: "Mutzone"
   - url: https://www.nothing.ch
     image_path: /assets/images/client-logos/nothing.png
     alt: "Nothing"
@@ -33,6 +29,10 @@ companies:
     image_path: /assets/images/client-logos/peerdom.jpg
     alt: "Peerdom"
     title: "Peerdom"
+  - url: https://www.solarify.ch
+    image_path: /assets/images/client-logos/solarify.png
+    alt: "Solarify"
+    title: "Solarify"
   - url: https://www.soulcode.agency
     image_path: /assets/images/client-logos/soulcode.png
     alt: "Soulcode"
