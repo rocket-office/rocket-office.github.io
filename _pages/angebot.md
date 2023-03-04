@@ -9,7 +9,11 @@ Du möchtest das Home-Office nicht missen, brauchst aber etwas Tapetenwechsel od
 
 Beim Fix Desk wählst Du Deinen persönlichen Arbeitsplatz aus und kannst ihn nach Deinen Wünschen einrichten.
 
-* Preis Fix Desk: 530.-/Monat
+Preis Fix Desk:
+* 1 à 530.-/Monat
+* 2 à 520.-/Monat
+* 3 à 510.-/Monat
+* ab 4 à 490.-/Monat
 
 ## Flex Desk
 
@@ -22,7 +26,7 @@ Beim Fix Desk wählst Du Deinen persönlichen Arbeitsplatz aus und kannst ihn na
 
 Als Optionen können eine Postanschrift und einen Parkplatz (so lange Verfügbar) dazu gemietet werden.
 
-* Preis pro Postadresse (Anschrift am Briefkasten): 13.-/Monat
+* Preis pro Postanschrift (Anschrift am Briefkasten): 13.-/Monat
 * Preis pro Parkplatz: 150.-/Monat
 * Preis pro Korpus (abschliessbar): 5.-/Monat
 
