@@ -5,7 +5,7 @@ title: "Unsere Angebote"
 
 Du möchtest das Home-Office nicht missen, brauchst aber etwas Tapetenwechsel oder ab- und an ein Meeting Raum um im Team vor Ort etwas erarbeiten zu können? Wir haben bestimmt das passende Abo für Dich. Und sollten trotzdem noch Fragen offen oder Dein Wunsch-Setup nicht zu finden sein, [melde Dich bei uns](/kontakt/)!)
 
-## 🚀 Attraktive Übergangsnutzung – zum halben Preis! 🚀
+## 🚀 Übergangsnutzung – 50% Rabatt! 🚀
 
 Unser schönes Büro wird in den kommenden Monaten einem Neubau weichen. Das genaue Abrissdatum steht aktuell noch nicht fest. Bis dahin kannst du von einer kurzfristigen, flexiblen Übergangsnutzung profitieren – und zwar mit **50% Rabatt**!
 
