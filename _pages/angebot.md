@@ -10,10 +10,10 @@ Du möchtest das Home-Office nicht missen, brauchst aber etwas Tapetenwechsel od
 Unser schönes Büro wird in den kommenden Monaten einem Neubau weichen. Das genaue Abrissdatum steht aktuell noch nicht fest. Bis dahin kannst du von einer kurzfristigen, flexiblen Übergangsnutzung profitieren – und zwar mit **50% Rabatt**!
 
 Bei unserem Fix Desk Angebot wählst Du Deinen persönlichen Arbeitsplatz aus und kannst ihn nach Deinen Wünschen einrichten:
-* 1 Platz à ~530.-~ 265.-/Monat
-* 2 Plätze à ~520.-~ 260.-/Monat
-* 3 Plätze à ~510.-~ 255.-/Monat
-* ab 4 Plätze à ~490.-~ 245.-/Monat
+* 1 Platz à ~~530.-~~ 265.-/Monat
+* 2 Plätze à ~~520.-~~ 260.-/Monat
+* 3 Plätze à ~~510.-~~ 255.-/Monat
+* ab 4 Plätze à ~~490.-~~ 245.-/Monat
 
 Sobald der Abriss-Termin bekannt ist, endet das Mietverhältnis automatisch auf diesen Zeitpunkt.
 
