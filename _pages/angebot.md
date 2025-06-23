@@ -5,22 +5,19 @@ title: "Unsere Angebote"
 
 Du möchtest das Home-Office nicht missen, brauchst aber etwas Tapetenwechsel oder ab- und an ein Meeting Raum um im Team vor Ort etwas erarbeiten zu können? Wir haben bestimmt das passende Abo für Dich. Und sollten trotzdem noch Fragen offen oder Dein Wunsch-Setup nicht zu finden sein, [melde Dich bei uns](/kontakt/)!)
 
-## Fix Desk
+## 🚀 Attraktive Übergangsnutzung – zum halben Preis! 🚀
 
-Beim Fix Desk wählst Du Deinen persönlichen Arbeitsplatz aus und kannst ihn nach Deinen Wünschen einrichten.
+Unser schönes Büro wird in den kommenden Monaten einem Neubau weichen. Das genaue Abrissdatum steht aktuell noch nicht fest. Bis dahin kannst du von einer kurzfristigen, flexiblen Übergangsnutzung profitieren – und zwar mit **50% Rabatt**!
 
-Preis Fix Desk:
-* 1 à 530.-/Monat
-* 2 à 520.-/Monat
-* 3 à 510.-/Monat
-* ab 4 à 490.-/Monat
+Bei unserem Fix Desk Angebot wählst Du Deinen persönlichen Arbeitsplatz aus und kannst ihn nach Deinen Wünschen einrichten:
+* 1 Platz à ~530.-~ 265.-/Monat
+* 2 Plätze à ~520.-~ 260.-/Monat
+* 3 Plätze à ~510.-~ 255.-/Monat
+* ab 4 Plätze à ~490.-~ 245.-/Monat
 
-## Flex Desk
+Sobald der Abriss-Termin bekannt ist, endet das Mietverhältnis automatisch auf diesen Zeitpunkt.
 
-2-3 Arbeitstage pro Woche im Office sind für Dich genug. Du bist mobil und flexibel bzgl. Arbeitsplatz und Setup, Hauptsache Wireless Internet ist verfügbar? Dann ist der Flex Desk das richtige für Dich.
-
-* Preis Flex Desk 2 Tag/Woche (fair use): 260.-/Monat
-* Preis Flex Desk 3 Tage/Woche (fair use): 280.-/Monat
+Nutze diese Gelegenheit für eine unkomplizierte, günstige und attraktive Arbeitsumgebung mitten in Wabern!
 
 ## Optionen
 
