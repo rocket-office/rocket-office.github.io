@@ -29,7 +29,7 @@ Als Optionen können eine Postanschrift und einen Parkplatz (so lange Verfügbar
 
 ## Im Mietvertrag inbegriffen
 
-Egal ob Du Dich für einen _Fix Desk_ oder ein _Flex Desk_ Abo entscheidest. Folgende Services sind inklusive!
+Folgende Services sind inklusive!
 
 ### 24/7 Zutritt
 
